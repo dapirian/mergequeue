@@ -637,6 +637,7 @@ enchant
 enneaeteric
 empyreumatic
 epipaleolithic
+epidemicity
 entach
 eery
 ernestine
@@ -8332,7 +8333,6 @@ epitaxies
 epitaxis
 ebonizes
 eyelashes
-epidemicity
 epigrammatized
 enlife
 ecophobia
