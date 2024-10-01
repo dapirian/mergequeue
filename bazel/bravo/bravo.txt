@@ -13900,6 +13900,7 @@ bowly
 breastworks
 bowlike
 bowline
+bitted
 bacalaos
 baptizee
 biochemist
@@ -14638,7 +14639,6 @@ bogle
 broilingly
 brasilins
 beginners
-bitted
 baned
 brasils
 brasque
