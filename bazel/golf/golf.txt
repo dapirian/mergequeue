@@ -4550,7 +4550,6 @@ genoms
 gigantopithecus
 gypseian
 greenings
-galionji
 generater
 gallovidian
 gambs
@@ -8459,6 +8458,7 @@ grouchingly
 grownups
 greystone
 geomedical
+galionji
 goshdarn
 gramaphone
 gametophyte
