@@ -1950,6 +1950,7 @@ dermohumeral
 disyllabism
 deburr
 divulgatory
+dihydrochloride
 doated
 debus
 decanally
@@ -9680,7 +9681,6 @@ dihybrids
 disfunctions
 drizzle
 dupers
-dihydrochloride
 duplicable
 diapason
 devastations

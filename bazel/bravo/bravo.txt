@@ -6639,7 +6639,6 @@ beresite
 beret
 berets
 balancers
-beretta
 berewick
 balkanizing
 banquettes
@@ -10683,6 +10682,7 @@ blearness
 blears
 bleated
 butcherdom
+beretta
 bleaty
 bleating
 bibliognostic
