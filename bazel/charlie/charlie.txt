@@ -335,6 +335,7 @@ cysticercus
 cacodemon
 cacodemonia
 cowtongue
+communionable
 cacodemoniac
 chlamydes
 citizendom
@@ -20344,7 +20345,6 @@ cercospora
 command
 communicatory
 communicators
-communionable
 cornrows
 chlorinators
 contubernium
