@@ -9258,7 +9258,6 @@ forfend
 fraise
 fortunately
 fraised
-fertilities
 futilely
 fraises
 fretwise
@@ -11516,6 +11515,7 @@ frictionize
 fusariosis
 flypasts
 fidgetation
+fertilities
 forethoughtless
 fuscin
 fuscohyaline
