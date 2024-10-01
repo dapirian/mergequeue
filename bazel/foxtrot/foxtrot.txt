@@ -6449,7 +6449,6 @@ fluorobenzene
 fructifies
 fulcra
 foreship
-frivoled
 frogeye
 fluoaluminate
 felicitators
@@ -9710,6 +9709,7 @@ fallalishly
 facty
 femoral
 famishes
+frivoled
 fingerroot
 functorial
 flummoxed
