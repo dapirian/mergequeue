@@ -8192,7 +8192,6 @@ banishes
 buffalos
 baldpate
 byeman
-bleezy
 ballote
 bienly
 browpost
@@ -10927,6 +10926,7 @@ blinding
 bescoured
 braciolas
 blindness
+bleezy
 bignoniad
 blindstorey
 broiders

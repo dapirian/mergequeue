@@ -378,7 +378,6 @@ cacology
 cosseted
 cacomagician
 cacomelia
-cacomistle
 cacomixle
 canoeing
 cacomorphia
@@ -2212,6 +2211,7 @@ campong
 campongs
 convincing
 cheiropodist
+cacomistle
 camponotus
 coteline
 counterhammering
