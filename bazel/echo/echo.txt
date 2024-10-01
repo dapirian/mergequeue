@@ -5843,6 +5843,7 @@ engrailed
 encyrtid
 elsewards
 epizoicide
+exegetical
 engrainer
 ensepulcher
 engraining
@@ -14129,7 +14130,6 @@ emphatic
 eutrophy
 epithamia
 electrooptic
-exegetical
 extensory
 episcopates
 ebonizing
