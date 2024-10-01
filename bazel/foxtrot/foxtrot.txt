@@ -1713,7 +1713,6 @@ focally
 feaberry
 forethoughtfulness
 firoloida
-farmerette
 frugivora
 focalises
 feak
@@ -6888,6 +6887,7 @@ fasces
 ferritungstite
 farewell
 flasks
+farmerette
 friability
 flourished
 flioma
