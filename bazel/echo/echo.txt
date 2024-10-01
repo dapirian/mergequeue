@@ -4074,6 +4074,7 @@ energetistic
 excoct
 exogenous
 eellike
+eyeshades
 epaulette
 engagement
 eire
@@ -6185,7 +6186,6 @@ evolvent
 enneagonal
 examinationist
 enrolling
-eyeshades
 endorachis
 elephantiac
 enneagons
