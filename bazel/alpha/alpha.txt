@@ -11345,7 +11345,6 @@ autoelectrolytic
 annats
 amplify
 amplificate
-aftercause
 amplificative
 amplificatory
 amplifies
@@ -19319,6 +19318,7 @@ antapocha
 areologies
 attainable
 areologist
+aftercause
 areometry
 areometric
 areometrical
