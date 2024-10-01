@@ -1427,6 +1427,7 @@ antimosquito
 atka
 accessorize
 accessors
+antigen
 acciaccaturas
 acciaccature
 accidence
@@ -19983,7 +19984,6 @@ aramis
 achillea
 aldononose
 astrologe
-antigen
 applauding
 archdeanery
 acclimatization

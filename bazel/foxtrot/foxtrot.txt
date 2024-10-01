@@ -6674,6 +6674,7 @@ foeless
 faulted
 fulguration
 fulgurating
+faciest
 flossing
 forenotice
 foemanship
@@ -11236,7 +11237,6 @@ funmaking
 flit
 flakeless
 famble
-faciest
 featherwork
 funneling
 flattie
