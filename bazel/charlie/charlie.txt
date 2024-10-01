@@ -11415,7 +11415,6 @@ chloroethene
 chloroethylene
 chlorofluorocarbon
 chlorofluoromethane
-ceylanite
 chloroformate
 churched
 chalcophanite
@@ -28484,6 +28483,7 @@ cajuputol
 crickets
 champagnes
 contraorbital
+ceylanite
 creational
 creationary
 creations
