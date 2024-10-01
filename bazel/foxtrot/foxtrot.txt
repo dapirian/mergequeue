@@ -10672,6 +10672,7 @@ fivepenny
 farfugium
 fruitstalk
 fg
+funkia
 foreset
 foresheets
 fleuretty
@@ -10995,7 +10996,6 @@ frigging
 freshly
 fortilage
 feuillemorte
-funkia
 fabliaux
 fusuma
 farmery

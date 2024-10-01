@@ -5275,7 +5275,6 @@ ganocephalous
 gymnadeniopsis
 geoponics
 ghaist
-glycosyl
 glyceroxide
 glycide
 galoshed
@@ -9955,6 +9954,7 @@ galvayned
 goldi
 greisen
 gozell
+glycosyl
 gomorrean
 gazetted
 gamasoidea
