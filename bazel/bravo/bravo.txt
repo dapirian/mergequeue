@@ -11457,7 +11457,6 @@ bluestems
 bluestocking
 beguiles
 bigeneric
-bivious
 barytones
 bluestockings
 bluetit
@@ -13672,6 +13671,7 @@ balkingly
 boys
 billboard
 bourasque
+bivious
 ballarag
 blames
 baseliner
