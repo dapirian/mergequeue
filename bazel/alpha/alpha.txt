@@ -3184,6 +3184,7 @@ allochromatic
 alstonine
 assident
 actuary
+afflation
 aphis
 ashlar
 actuating
@@ -12792,7 +12793,6 @@ arbitrations
 antihysteric
 anatomisation
 athenaea
-afflation
 anathematizes
 asemia
 almners

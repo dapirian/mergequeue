@@ -2707,7 +2707,6 @@ froufrou
 flickering
 foxfishes
 fishhold
-fifty
 frostbow
 fetish
 flashy
@@ -7994,6 +7993,7 @@ foreskin
 forecastingly
 floran
 fleying
+fifty
 forecooler
 frontispiecing
 fantasmagorically
