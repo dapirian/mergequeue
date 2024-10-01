@@ -18008,6 +18008,7 @@ allods
 approximator
 appt
 arteriotomy
+anaphoras
 aggrandise
 alemonger
 anchoritism
@@ -20077,7 +20078,6 @@ amination
 aromatised
 aromatitae
 alcoholizing
-anaphoras
 apophyses
 aromatites
 ambrosial
